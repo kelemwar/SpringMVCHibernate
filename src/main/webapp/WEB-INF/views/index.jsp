@@ -90,7 +90,7 @@
 </form:form>
 <br>
 <form action="/search/">
-    <label for="search">ID:</label>
+    <label for="search">Search:</label>
     <input type="text" id="search" name="search" placeholder="search"/>
     <br/>
     <br/>
